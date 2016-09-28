@@ -6,4 +6,4 @@ The goal of this project is to provide a full **Third Party API library** built 
 
 ## Guidelines
 
-* Use [WP Remote Request](https://developer.wordpress.org/reference/functions/wp_remote_request/) or similar functions for API calls. No using curl directly
+* Use [WP Remote Request](https://developer.wordpress.org/reference/functions/wp_remote_request/) or similar functions for API calls. No using curl or other methods directly for calls.
