@@ -13,3 +13,16 @@ The goal of this project is to provide a full **Third Party API library** built 
 * API Classes should not save any data to the DB
 * All methods of the API should be supported
 * More to come...
+
+## Completed / Production Ready
+
+* [wp-idxbroker-api](https://github.com/wp-api-libraries/wp-idxbroker-api)
+
+## In Progress
+
+* [wp-codeclimate-api](https://github.com/wp-api-libraries/wp-codeclimate-api)
+
+## Needs Help/Devs
+
+* [wp-twitter-api](https://github.com/wp-api-libraries/wp-twitter-api)
+* [wp-pixabay-api](https://github.com/wp-api-libraries/wp-pixabay-api)
