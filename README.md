@@ -26,3 +26,8 @@ The goal of this project is to provide a full **Third Party API library** built 
 
 * [wp-twitter-api](https://github.com/wp-api-libraries/wp-twitter-api)
 * [wp-pixabay-api](https://github.com/wp-api-libraries/wp-pixabay-api)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/wp-api-libraries/wp-api-libraries.com/badge.svg?style=beer-square)](https://beerpay.io/wp-api-libraries/wp-api-libraries.com)  [![Beerpay](https://beerpay.io/wp-api-libraries/wp-api-libraries.com/make-wish.svg?style=flat-square)](https://beerpay.io/wp-api-libraries/wp-api-libraries.com?focus=wish)
