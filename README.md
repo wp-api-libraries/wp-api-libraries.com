@@ -2,7 +2,7 @@
 
 ## Matching Third Party APIs with WordPress Developers.
 
-The goal of this project is to provide a full **Third Party API library** built with WordPress standards for all available APIs.
+The goal of this project is to provide a full **Third Party API library** built with WordPress standards for all available APIs. [Read more about this idea!](https://www.linkedin.com/pulse/api-client-libraries-wordpress-brandon-hubbard)
 
 ## Guidelines
 
