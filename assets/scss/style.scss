@@ -242,6 +242,7 @@ a {
     -moz-box-shadow: 0 10px 33px rgba(0,0,0,.1);
   -webkit-box-shadow: 0 10px 33px rgba(0,0,0,.1);
   box-shadow: 0 10px 33px rgba(0,0,0,.1);
+  z-index: 1 !important;
 }
 
 .navbar-toggle {
