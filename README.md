@@ -14,6 +14,10 @@ The goal of this project is to provide a full **Third Party API library** built 
 * All methods of the API should be supported
 * More to come...
 
+## Communication / Project Management
+
+This Organization will use [Slack](https://wp-api-libraries.slack.com/) as its main channel of communication and GitHub's internal Projects feature for Project Management.
+
 ## Completed / Production Ready
 
 * [wp-idxbroker-api](https://github.com/wp-api-libraries/wp-idxbroker-api)
