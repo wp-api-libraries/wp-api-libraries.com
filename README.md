@@ -16,7 +16,7 @@ The goal of this project is to provide a full **Third Party API library** built 
 
 ## Communication / Project Management
 
-This Organization will use [Slack](https://wp-api-libraries.slack.com/) as its main channel of communication and GitHub's internal Projects feature for Project Management.
+This Organization will use [Slack](https://wp-api-libraries-slack-join.herokuapp.com/) as its main channel of communication and GitHub's internal Projects feature for Project Management.
 
 ## Completed / Production Ready
 
