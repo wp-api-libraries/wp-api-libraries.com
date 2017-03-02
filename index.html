@@ -208,57 +208,14 @@
                 <!-- end row -->
 
 
+				<div class="row">
+                    <div class="col-sm-12">
+                <div id="github-projects"></div>
+                    </div>
+				</div>
 
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="libraries-box">
 
-                            <h4><a href="https://github.com/wp-api-libraries/wp-deploybot-api">WP-Deploybot-API</a></h4>
-                            <p>A WordPress php library for interacting with the Deploybot API.</p>
-                        </div>
-                    </div> <!-- end col -->
 
-                    <div class="col-sm-4">
-                        <div class="libraries-box">
-
-                            <h4><a href="https://github.com/wp-api-libraries/wp-codeclimate-api">WP-CodeClimate-API</a></h4>
-                            <p>A WordPress php library for interacting with the CodeClimate API.</p>
-                        </div>
-                    </div> <!-- end col -->
-                    <div class="col-sm-4">
-                        <div class="libraries-box">
-
-                            <h4><a href="https://github.com/wp-api-libraries/wp-github-api">WP-Github-API</a></h4>
-                            <p>A WordPress php library for interacting with the GitHub API.</p>
-                        </div>
-                    </div> <!-- end col -->
-                </div>
-                <!-- end row -->
-
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="libraries-box">
-
-                            <h4><a href="https://github.com/wp-api-libraries/wp-twitter-api">WP-Twitter-API</a></h4>
-                            <p>A WordPress php library for interacting with the Twitter API.</p>
-                        </div>
-                    </div> <!-- end col -->
-
-                    <div class="col-sm-4">
-                        <div class="libraries-box">
-                            <h4>Coming Soon</h4>
-                            <p>We have a large list of APIs created, so more APIs are coming and will be listed soon.</p>
-                        </div>
-                    </div> <!-- end col -->
-
-                    <div class="col-sm-4">
-                        <div class="libraries-box">
-                            <h4>Coming Soon</h4>
-                            <p>We have a large list of APIs created, so more APIs are coming and will be listed soon.</p>
-                        </div>
-                    </div> <!-- end col -->
-                </div>
-                <!-- end row -->
 
             </div> <!-- end container -->
         </section>
@@ -297,7 +254,7 @@
                             <h2>Get Involved</h2>
                             <h4>We are looking for those who want to get involved with this project, if that is you, please contact us.</h4>
                             <a href="https://wp-api-libraries-slack-join.herokuapp.com/" class="btn btn-custom">Join us on Slack!</a>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -354,6 +311,8 @@
                 </div> <!-- end row -->
 
 
+
+
             </div> <!-- end container -->
         </footer>
         <!-- end FOOTER -->
@@ -369,6 +328,14 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
         <script src="assets/js/jquery.sticky.min.js"></script>
         <script src="assets/js/main.min.js"></script>
+        <script src="assets/js/github.min.js"></script>
+
+
+	<script type="text/javascript">
+  jQuery(function() {
+    jQuery("#github-projects").loadRepositories("wp-api-libraries");
+  });
+</script>
 
     </body>
 </html>
